@@ -1,0 +1,33 @@
+-- 1. What categories of products does Northwind Traders sell?
+-- Grocery wholesaler
+-- 2.What is the name of a product that sounds interesting to you?
+-- Lakkalikri
+-- 3. What are some of the countries in which we have customers?
+-- Mostly Europa(France, Germany etc.), Latin America and NA
+-- At 1996-07-04 00:00:00, I look orders 
+-- 5. What date was our last order placed
+-- 1998-05-06 00:00:00
+-- 6. How many customers do we currently have?
+--  I couldnt calculate
+-- 7. Do we have any suppliers in South America? Europe? Africa?
+-- We have at EU, and SA  but not in Africa
+-- 8. What is our most expensive product?
+-- 263.5000
+-- 9. What is our least expensive product?
+-- Geitost
+-- We have a customer named "The Big Cheese" if I wanted to get details
+-- about their last order from us how would you find that information?
+-- a. What tables would you use?
+-- Orders and Customer
+-- b. How would you link the data in the tables you are using
+-- Custom Search
+-- c. What information might I want to know about their order?
+-- Order Date: 1996-09-20 00:00:00
+-- 1997-10-17 00:00:00
+-- 1997-12-30 00:00:00
+-- 1998-04-01 00:00:00
+-- Sales Total:  4 Diffrent sale 
+-- Product Name: Pavlova, Tarte au sucre I found these at 10310 Order id other order id's order detail doesnt included.
+-- iv. Is there other information that you might find interesting? : Undetailed order, Big Cheese name and he is a General Manager.
+
+
